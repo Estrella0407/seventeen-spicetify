@@ -1,0 +1,71 @@
+.playback-bar .x-progressBar-fillColor {
+    background: url('https://i.ibb.co/7pCr6ZR/Seventeen-Colour.jpg') repeat-x !important;
+    background: linear-gradient(
+        to right,
+        #f7cac9 100%,
+        #dec2cb 100%,
+        #c5b9cd 100%,
+        #abb1cf 100%,
+        #92a8d1 100%,
+    ) !important;
+    width: 100% !important;
+}
+
+.playback-bar .x-progressBar-progressBarBg {
+    background-color:#1e1e2e !important;
+    
+}
+
+.playback-bar .progress-bar__slider {
+    background: url('https://i.ibb.co/VNc7Ww6/SVT-Logo.png') !important;
+    width: 45px !important;
+    height:43px !important;
+    border: none !important;
+    margin-left: -20px !important;
+    margin-top: 0px !important;
+    visibility: visible !important;
+    display: block !important;
+    transform: translateY(-50%) scale(0.4);
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    transition: transform 0.1s cubic-bezier(0, 0, 0.2, 1) !important;
+}
+
+.playback-bar .progress-bar__slider::after {
+    display: none !important;
+}
+
+.playback-bar .progress-bar {
+    --progress-bar-height: 8px !important;
+}
+
+.playback-bar
+    :is(
+        .playback-progressbar-isInteractive .progress-bar--isDragging,
+        .playback-progressbar-isInteractive .progress-bar:focus,
+        .playback-progressbar-isInteractive .progress-bar:hover,
+        .playback-progressbar-isInteractive:focus-within
+    ) {
+    --progress-bar-height: 12px !important;
+}
+
+.playback-bar
+    :is(
+        .x-progressBar-progressBarBg,
+        .x-progressBar-sliderArea,
+        .x-progressBar-fillColor
+    ) {
+    transition: height 0.1s cubic-bezier(0, 0, 0.2, 1) !important;
+}
+
+.playback-bar
+    :is(
+        .playback-progressbar-isInteractive .progress-bar--isDragging,
+        .playback-progressbar-isInteractive .progress-bar:focus,
+        .playback-progressbar-isInteractive .progress-bar:hover,
+        .playback-progressbar-isInteractive:focus-within
+    )
+    .progress-bar__slider {
+    image-rendering: pixelated !important;
+    transform: translateY(-50%) scale(0.5) !important;
+}
