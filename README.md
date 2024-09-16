@@ -38,6 +38,7 @@ https://github.com/user-attachments/assets/042529f4-7c0b-4c20-83e7-c28b95e1e7df
 </table>
 <br>
 
+### Credits
 The base colour and theme is from [Catppuccin](https://github.com/catppuccin/spicetify).
 The palette colour is **Mocha** with **Rosewater**.
 
