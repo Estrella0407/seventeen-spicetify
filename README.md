@@ -5,7 +5,7 @@ Hi, Carats🩷 I was searching through [Spicetify Marketplace](https://github.co
 
 There are **two** separate file of snippets:
 1. Seventeen Playback Bar
-2. Seventeen Members Dancing on Playback Bar (*Hyung Line on Left, Maknae Line on Right*)
+2. Seventeen Members Dancing on Playback Bar (*Hyung Line on Left, Dongsaeng Line on Right*)
 
 https://github.com/user-attachments/assets/042529f4-7c0b-4c20-83e7-c28b95e1e7df
 
