@@ -9,10 +9,20 @@ There are **two** separate file of snippets:
 
 https://github.com/user-attachments/assets/042529f4-7c0b-4c20-83e7-c28b95e1e7df
 
+<br>
+
+### How to Apply❔
+1. Go to the **Marketplace** in your Spotify.
+2. Go to **Snippets**.
+3. In the bottom right corner, click the button **'Add CSS'**.
+4. Paste the CSS file into the **Custom CSS** section.
+5. Name the snippet and make your own customizations to the CSS file.
+6. Save the CSS and you're done!
+> NOTE❗You have to download both [Spicetify](https://github.com/spicetify) and [Spicetify Marketplace](https://github.com/spicetify/marketplace) for this to work.
 
 <br>
 
-### Seventeen Palette
+### Seventeen Palette 🩷💙
 <table>
 	<tr>
 		<th>🎨</th>
@@ -38,7 +48,7 @@ https://github.com/user-attachments/assets/042529f4-7c0b-4c20-83e7-c28b95e1e7df
 </table>
 <br>
 
-### Credits
+### Credits 👏🏻
 The base colour and theme is from [Catppuccin](https://github.com/catppuccin/spicetify).
 The palette colour is **Mocha** with **Rosewater**.
 
